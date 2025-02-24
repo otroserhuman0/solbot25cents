@@ -1,0 +1,10 @@
+{
+  "rpc_endpoint": "https://solana-mainnet.rpc.extrnode.com”,
+  "private_key": "26w41gQkHraPzuxJC1m9yrF8znxzgF2iaA8n5wbYX72f2eqzGsWMGKKrWuqw5AQpAvJebL9Mf3ZWKXbKny81Rfei",
+  "trade_amount": 0.1,
+  "telegram_bot_token": "7739707221:AAF21AFnckRF4tZcjaV8yyRBFSlIeyyr24M",
+  "telegram_chat_id": "8117960104",
+  "dex": "raydium",
+  "profit_target": 0.2,
+  "auto_sell": true
+}
